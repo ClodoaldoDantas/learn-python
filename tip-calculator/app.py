@@ -1,4 +1,4 @@
-print("Bem vindo a nossa calculador de gorjetas!")
+print("Bem-vindo a nossa calculador de gorjetas!")
 
 bill = float(input("Qual foi o valor da conta? R$ "))
 tip = int(input("Qual o valor da gorjeta que você gostaria de dar? 10, 12 ou 15 por cento? "))
