@@ -7,5 +7,5 @@ Este repositório reúne desafios em Python para praticar e dominar a linguagem.
 No terminal, na raiz do repositório, rode o script do desafio desejado:
 
 ```bash
-python3 tip-calculator/app.py
+python3 <folder-name>/app.py
 ```
