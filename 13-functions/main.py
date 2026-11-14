@@ -1,7 +1,7 @@
 def calculate_percentage(value, percentage=10):
     return value * (percentage / 100)
 
-print("🧮 Calculadora de porcentagem")
+print("Calculadora de porcentagem")
 num = float(input("Digite um valor: "))
 
 # result = calculate_percentage(num)
